@@ -1,1 +1,0 @@
-# irelandb.github.io
