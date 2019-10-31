@@ -75,15 +75,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="887"
+     inkscape:window-width="640"
      inkscape:window-height="480"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.44430177"
+     inkscape:zoom="0.63000602"
      inkscape:cx="389.375"
      inkscape:cy="72.1875"
      inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="g10" /><g
      id="g10"
@@ -186,10 +186,10 @@
          y="0"
          sodipodi:role="line"
          id="tspan78">tig</tspan><tspan
-         x="59.498405 63.413116 66.270508"
+         x="59.498405 65.14328 67.205498 72.177528"
          y="13.002442"
          sodipodi:role="line"
-         id="tspan80">cra</tspan></text>
+         id="tspan80">GlpR</tspan></text>
 <text
        transform="matrix(1,0,0,-0.8508255,74.1714,6.9687)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.37310028px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -198,28 +198,28 @@
          y="0"
          sodipodi:role="line"
          id="tspan84">-50</tspan><tspan
-         x="279.26935 286.64273 289.61795 296.99136"
+         x="279.25497 286.62836 289.60358 296.97699"
          y="-70.974365"
          sodipodi:role="line"
          id="tspan86">0.05</tspan><tspan
-         x="274.85678 279.26935 286.64273 289.61795 296.99136"
+         x="274.84241 279.25497 286.62836 289.60358 296.97699"
          y="-15.609187"
          sodipodi:role="line"
          id="tspan88">-0.05</tspan><tspan
-         x="-67.582314"
+         x="-67.596687"
          y="-78.563362"
          id="tspan90">A</tspan><tspan
-         x="-67.352348"
+         x="-67.366722"
          y="-57.003716"
          id="tspan92">C</tspan><tspan
-         x="-67.82666"
+         x="-67.841034"
          y="-35.444065"
          id="tspan94">G</tspan><tspan
-         x="-66.74868"
+         x="-66.763046"
          y="-13.884415"
          id="tspan96">T</tspan></text>
 <text
-       transform="matrix(0,-0.8508255,-1,0,390.3037,81.7529)"
+       transform="matrix(0,-0.85083246,-1,0,390.3037,81.7529)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.37310028px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#221f1f;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text98"><tspan
          x="0 7.200923 15.177994 22.378916 27.07892 35.113483 41.883213 44.930309 49.012272 57.808609 60.78384 70.083237"
@@ -234,22 +234,22 @@
          y="0"
          id="tspan104">1</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.0212245,23.1284,94.2646)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.07970047px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.02122456,23.1284,94.2646)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.07960129px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text106"><tspan
          x="0"
          y="0"
          id="tspan108">A</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.0660688,21.9497,94.918)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.08349991px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#35459b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.06606863,21.9497,94.918)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.08359909px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#35459b;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text110"><tspan
          x="0"
          y="0"
          id="tspan112">C</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.33622688,22.187,96.9639)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.60580063px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#fbb216;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.33622785,22.187,96.9639)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.60570145px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#fbb216;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text114"><tspan
          x="0"
          y="0"
@@ -262,8 +262,8 @@
          y="0"
          id="tspan120">2</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.01156774,47.2407,94.3857)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6729002px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.01156796,47.2407,94.3857)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.67259979px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text122"><tspan
          x="0"
          y="0"
@@ -290,8 +290,8 @@
          y="0"
          id="tspan136">3</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.01315391,71.3384,94.3535)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.60230017px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.01315374,71.3384,94.3535)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.60239983px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text138"><tspan
          x="0"
          y="0"
@@ -307,8 +307,8 @@
        id="g146"><g
          id="g148"
          clip-path="url(#clipPath150)"><text
-           transform="matrix(1,0,0,-0.59306205,70.1724,95.6035)"
-           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.08359909px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#35459b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-0.59306357,70.1724,95.6035)"
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.08349991px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#35459b;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="text154"><tspan
              x="0"
              y="0"
@@ -321,8 +321,8 @@
          y="0"
          id="tspan160">4</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.01198958,94.4614,94.2578)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.81719971px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#098040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.0119846,94.4614,94.2578)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.81710052px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#098040;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text162"><tspan
          x="0"
          y="0"
@@ -335,15 +335,15 @@
          y="0"
          id="tspan168">G</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.03018156,95.4565,95.0488)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.07979965px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.03018165,95.4565,95.0488)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.07970047px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text170"><tspan
          x="0"
          y="0"
          id="tspan172">A</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.45710455,94.2778,96.1104)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.08340073px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#35459b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.45710572,94.2778,96.1104)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.08330154px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#35459b;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text174"><tspan
          x="0"
          y="0"
@@ -356,15 +356,15 @@
          y="0"
          id="tspan180">5</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.02069751,119.5542,94.3711)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.83150005px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.02069793,119.5542,94.3711)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.83139992px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text182"><tspan
          x="0"
          y="0"
          id="tspan184">A</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.01737041,118.3823,94.5645)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.08369827px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#35459b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.01737037,118.3823,94.5645)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.08380127px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#35459b;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text186"><tspan
          x="0"
          y="0"
@@ -394,15 +394,15 @@
          y="0"
          id="tspan208">G</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.09121606,143.6724,94.5361)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.07970047px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.09121634,143.6724,94.5361)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.07960129px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text210"><tspan
          x="0"
          y="0"
          id="tspan212">A</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.3650578,142.4937,96.918)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.08340073px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#35459b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.36505687,142.4937,96.918)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.08349991px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#35459b;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text214"><tspan
          x="0"
          y="0"
@@ -415,15 +415,15 @@
          y="0"
          id="tspan220">7</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.01126178,166.8022,94.2578)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.27079964px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#098040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.01126185,166.8022,94.2578)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.27070045px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#098040;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text222"><tspan
          x="0"
          y="0"
          id="tspan224">T</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.02300971,166.5981,94.541)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.08349991px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#35459b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.02300977,166.5981,94.541)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.08340073px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#35459b;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text226"><tspan
          x="0"
          y="0"
@@ -450,22 +450,22 @@
          y="0"
          id="tspan240">8</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.01088069,190.8999,94.2578)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.82640076px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#098040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.01088066,190.8999,94.2578)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.82649994px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#098040;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text242"><tspan
          x="0"
          y="0"
          id="tspan244">T</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.02607331,191.8882,94.6816)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.07979965px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.02607339,191.8882,94.6816)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.07970047px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text246"><tspan
          x="0"
          y="0"
          id="tspan248">A</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.03051223,190.9399,95.4336)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.60580063px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#fbb216;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.03051231,190.9399,95.4336)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.60570145px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#fbb216;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text250"><tspan
          x="0"
          y="0"
@@ -485,22 +485,22 @@
          y="0"
          id="tspan260">9</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.01175373,215.0054,94.2578)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.25029945px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#098040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.01175369,215.0054,94.2578)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.25040054px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#098040;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text262"><tspan
          x="0"
          y="0"
          id="tspan264">T</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.02513733,215.0513,94.6426)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.60589981px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#fbb216;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.0251374,215.0513,94.6426)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.60580063px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#fbb216;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text266"><tspan
          x="0"
          y="0"
          id="tspan268">G</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.03815331,216.0005,95.3408)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.07970047px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.03815319,216.0005,95.3408)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.07979965px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text270"><tspan
          x="0"
          y="0"
@@ -521,15 +521,15 @@
          sodipodi:role="line"
          id="tspan280">10</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.01086831,239.1685,94.2607)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.39629936px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#fbb216;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.01086857,239.1685,94.2607)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.39590073px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#fbb216;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text282"><tspan
          x="0"
          y="0"
          id="tspan284">G</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.01885138,240.104,94.5156)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.07979965px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.0188515,240.104,94.5156)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.07960129px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text286"><tspan
          x="0"
          y="0"
@@ -557,22 +557,22 @@
          sodipodi:role="line"
          id="tspan300">11</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.01831032,264.2163,94.2578)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.46140003px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.01831133,264.2163,94.2578)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.4611001px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text302"><tspan
          x="0"
          y="0"
          id="tspan304">A</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.01536443,263.2671,94.4277)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.60589981px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#fbb216;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.01536439,263.2671,94.4277)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.60599899px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#fbb216;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text306"><tspan
          x="0"
          y="0"
          id="tspan308">G</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.05592852,263.2271,94.9453)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.82659912px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#098040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.05592839,263.2271,94.9453)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.8266983px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#098040;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text310"><tspan
          x="0"
          y="0"
@@ -593,22 +593,22 @@
          sodipodi:role="line"
          id="tspan320">12</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.01110182,288.3149,94.2578)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.59939957px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.01110195,288.3149,94.2578)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.59910011px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ca2026;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text322"><tspan
          x="0"
          y="0"
          id="tspan324">A</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.01084218,287.3794,94.5967)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.60559845px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#fbb216;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.01084211,287.3794,94.5967)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.60580063px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#fbb216;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text326"><tspan
          x="0"
          y="0"
          id="tspan328">G</tspan></text>
 <text
-       transform="matrix(1,0,0,-0.02242597,287.3325,94.9639)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.82649994px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#098040;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-0.02242592,287.3325,94.9639)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.82659912px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#098040;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text330"><tspan
          x="0"
          y="0"
