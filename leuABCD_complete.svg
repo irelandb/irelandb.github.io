@@ -75,15 +75,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1232"
+     inkscape:window-height="776"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.69191413"
+     inkscape:zoom="1.2561196"
      inkscape:cx="389.375"
      inkscape:cy="72.1875"
-     inkscape:window-x="121"
-     inkscape:window-y="86"
+     inkscape:window-x="177"
+     inkscape:window-y="72"
      inkscape:window-maximized="0"
      inkscape:current-layer="g10" /><g
      id="g10"
@@ -186,10 +186,10 @@
          y="0"
          sodipodi:role="line"
          id="tspan78">leuABCD</tspan><tspan
-         x="71.495949 76.424294 80.802132 85.599411"
-         y="13.002442"
+         x="0"
+         y="0"
          sodipodi:role="line"
-         id="tspan80">deoR</tspan></text>
+         id="tspan80" /></text>
 <text
        transform="matrix(0,0.13415135,1,0,37.3242,93.916)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.49450016px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
